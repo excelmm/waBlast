@@ -15,3 +15,7 @@ Written in Python, powered by Selenium
 - Sometimes stops! (**UNRESOLVED ISSUE**) 
 *Whenever I use it, it stops at contact number 2715 - I then need to restart it with a different list (help :3)*
 - For now, the number of contacts in the broadcast list should be a multiple of 5 (easily fixed, TODO)
+
+## Log:
+#### 4-Dec:
+- Fixed targeting issue when forwarding
